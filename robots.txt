@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hlyay.github.io/niz/sitemap.niz.gz
